@@ -1,8 +1,8 @@
-# Hi, I'm Maria Eleni (Marlen) Fafouti 👋
+# Hi, I'm Maria Eleni (Marlen) Fafouti 
 
 **PhD student in neuroscience @ University of Toronto (Temerty Medicine) · CAMH / Krembil Centre for Neuroinformatics**
 
-I build and use computational tools for omics data to understand the brain. Currently focused on a rodent model of postpartum depression and on human postmortem neuroscience.
+I build and use computational tools for single-cell and spatial trascriptomics data to understand the brain. Currently focused on a rodent models of Alzheimer's disease and postpartum depression, as well as human brains from
 
 🔬 **Research focus:** spatial transcriptomics (Slide-seq V2, Slide-tags, Visium HD, Xenium, MERFISH) · single-cell / single-nucleus RNA-seq · reproducible pipelines & scientific automation
 
