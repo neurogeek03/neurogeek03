@@ -2,7 +2,7 @@
 
 **PhD student in neuroscience @ University of Toronto (Temerty Medicine) · CAMH / Krembil Centre for Neuroinformatics**
 
-I build and use computational tools for single-cell and spatial trascriptomics data to understand the brain. Currently focused on a rodent models of Alzheimer's disease and postpartum depression, as well as human brains from
+I build and use computational tools for single-cell and spatial transcriptomics data to understand the brain. Currently focused on rodent models of Alzheimer's disease and postpartum depression, as well as human brains from postmortem donors.
 
 🔬 **Research focus:** spatial transcriptomics (Slide-seq V2, Slide-tags, Visium HD, Xenium, MERFISH) · single-cell / single-nucleus RNA-seq · reproducible pipelines & scientific automation
 
