@@ -1,4 +1,4 @@
-# Hi, I'm Maria Eleni (Marlen) Fafouti 
+# Hi, I'm Maria Eleni (Marlen) Fafouti 🧚
 
 **PhD student in neuroscience @ University of Toronto (Temerty Medicine) · CAMH / Krembil Centre for Neuroinformatics**
 
